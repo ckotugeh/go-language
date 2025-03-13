@@ -4,9 +4,9 @@ import "fmt"
 
 func main() {
 	//initialize 3 variables fixed values of conversion currencies
-	const currencyconverter = 126.12
-	const currencyconverter1 = 1.85
-	const currencyconverter2 = 120.12
+	const currencyconverter = 129.45
+	const currencyconverter1 = 0.92
+	const currencyconverter2 = 147.71
 
 	var usd float64
 
